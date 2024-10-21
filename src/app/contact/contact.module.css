@@ -1,0 +1,60 @@
+/* styles/Contact.module.css */
+.main {
+    padding: 40px;
+    background-color: #f3f4f6;
+  }
+  
+  .contactSection {
+    text-align: center;
+    padding: 50px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contactSection h1 {
+    font-size: 2.5rem;
+    color: #004d40;
+    margin-bottom: 20px;
+  }
+  
+  .contactSection p {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 40px;
+  }
+  
+  .contactForm {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .input, .textarea {
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .textarea {
+    height: 100px;
+    resize: none;
+  }
+  
+  .submitBtn {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .submitBtn:hover {
+    background-color:rgb(232, 188, 98);
+  }
+  

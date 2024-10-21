@@ -1,0 +1,25 @@
+/* styles/Footer.module.css */
+.footer {
+    background-color: rgb(68, 68, 193);
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+  }
+  
+  .socialLinks {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 10px;
+  }
+  
+  .socialLinks a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .socialLinks a:hover {
+    color: #b2dfdb;
+  }
+  
