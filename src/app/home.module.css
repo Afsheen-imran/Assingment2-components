@@ -10,7 +10,7 @@
   }
   
   .heading {
-    font-size:x-large;
+    font-size:xx-large;
     color: blue;
     margin-bottom: 30px;
   }
@@ -23,7 +23,7 @@
   }
   
   .card {
-    background-color: white;
+    background-color:rgb(238, 139, 103);
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     overflow: hidden;
@@ -44,12 +44,13 @@
   }
   
   .card h3 {
-    color: #004d40;
+    color: blue;
     margin: 10px 0;
+    font-weight: 300;
   }
   
   .card p {
     padding: 0 10px 10px;
-    color: #666;
+    color: blue;
   }
   
