@@ -1,4 +1,4 @@
-// components/Footer.tsx
+
 import styles from './footer.module.css';
 
 const Footer = () => {

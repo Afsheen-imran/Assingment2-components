@@ -1,4 +1,4 @@
-// pages/contact.tsx
+
 
 
 import Footer from '../components/Footer/Footer';
